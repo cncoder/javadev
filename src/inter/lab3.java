@@ -2,6 +2,9 @@ package inter;
 /*
  * 使用接口实现多态，说明其用法。
  * 实现了接口的类，属于这个接口类型
+ * 接口的限制大致和抽象类相同
+ * 不同的是，抽象类是可以有实现的方法
+ * 接口是完完全全的抽象，不能有实现的方法
  */
 import javax.xml.stream.events.StartDocument;
 
