@@ -6,7 +6,6 @@ package inter;
  * 不同的是，抽象类是可以有实现的方法
  * 接口是完完全全的抽象，不能有实现的方法
  */
-import javax.xml.stream.events.StartDocument;
 
 public class lab3 {
 
