@@ -1,5 +1,8 @@
 package supermary;
 
+/*
+ * ÈõÖÇ°æ³´¼¦ÂêÀûÑÇ
+ */
 import java.util.Scanner;
 
 public class playwitharray {
